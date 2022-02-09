@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QZ", "QZ\QZ.csproj", "{B7B41670-BB98-474F-B409-E15260BC8963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseTest|Any CPU = ReleaseTest|Any CPU
+		test|Any CPU = test|Any CPU
+		test2|Any CPU = test2|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B41670-BB98-474F-B409-E15260BC8963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.ReleaseTest|Any CPU.ActiveCfg = ReleaseTest|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.ReleaseTest|Any CPU.Build.0 = ReleaseTest|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.test|Any CPU.ActiveCfg = test|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.test|Any CPU.Build.0 = test|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.test2|Any CPU.ActiveCfg = test2|Any CPU
+		{B7B41670-BB98-474F-B409-E15260BC8963}.test2|Any CPU.Build.0 = test2|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A224CD3A-9B57-4437-985A-87D5F868B6EA}
+	EndGlobalSection
+EndGlobal
